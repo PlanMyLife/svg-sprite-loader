@@ -1,0 +1,10 @@
+{
+  "name": "svg-sprite-loader",
+  "version": "1.0.0",
+  "description": "Gererate a svg sprite from an entry",
+  "main": "index.js",
+  "repository": "https://github.com/PlanMyLife/svg-sprite-loader",
+  "author": "Maxime Hersand <maxime.hersand@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
